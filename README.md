@@ -6,3 +6,10 @@ Remove male names for robot calls
 - **male_names_rus.txt** - contains list of all male names (russian and transliterated)
 
 Please ensure **filename_input** in cp-1251 encoding (!)
+
+**filename_input** must be in the following format: **Number;Name**:
+```
+79771234567;Имя1
+79771234568;Имя2
+79771234569;Имя3
+```
